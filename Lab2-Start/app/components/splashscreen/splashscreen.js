@@ -1,3 +1,1 @@
 
-exports.load = function(args) {
-};
